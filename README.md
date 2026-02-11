@@ -104,6 +104,10 @@ My goal is to transition confidently into a professional software development ro
 
 Projects done and on progress:
 
+Informative website Page for an Inititive i want to start on May 2026:
+- https://github.com/SiyaJNdzobs/thebridge-main
+
+
 ---
 
 ## 📬 Let’s Connect

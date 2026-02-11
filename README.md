@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siyabonga José Ndzobondzobo (SiyaJNdzobs)
+# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
 
 📍 South Africa  
 🎓 Final-Year ICT Student — Sol Plaatje University Kimberly Northen Cape  

@@ -104,9 +104,9 @@ My goal is to transition confidently into a professional software development ro
 
 Projects done and on progress:
 
-Informative website Page for an Inititive i want to start on May 2026:
+Informative website Page for an Inititive i want to start soon, and Mobile App: Water odering App: App dev practice
 - https://github.com/SiyaJNdzobs/thebridge-main
-Mobile App: Water odering App: App dev practice
+
 - https://github.com/SiyaJNdzobs/Amanzi
 
 

@@ -106,6 +106,8 @@ Projects done and on progress:
 
 Informative website Page for an Inititive i want to start on May 2026:
 - https://github.com/SiyaJNdzobs/thebridge-main
+Mobile App: Water odering App: App dev practice
+- https://github.com/SiyaJNdzobs/Amanzi
 
 
 ---

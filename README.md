@@ -1,4 +1,4 @@
-# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB) 👋
+# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
 
 ![GitHub followers](https://img.shields.io/github/followers/SiyaJNdzobs?style=social)
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=SiyaJNdzobs&label=Profile%20Views&countColor=%23263759)

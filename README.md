@@ -1,4 +1,7 @@
-# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
+# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB) 👋
+
+![GitHub followers](https://img.shields.io/github/followers/SiyaJNdzobs?style=social)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=SiyaJNdzobs&label=Profile%20Views&countColor=%23263759)
 
 **📍 South Africa** | **🎓 Final-Year ICT Student — Sol Plaatje University, Kimberley, Northern Cape**  
 **📧 siyajndzobs@gmail.com** | **📱 0672598417**
@@ -16,7 +19,7 @@ I am a final-year ICT student focused on becoming a well-rounded full-stack deve
 - Backend API Development
 - Database Design & Management
 - Role-Based System Architecture
-- Aspirering cyber security professional
+- Aspiring Cybersecurity Professional
 
 I am actively strengthening my hands-on experience by building structured, production-style projects and improving my understanding of scalable system design.
 
@@ -63,21 +66,36 @@ My goal is to transition confidently into a professional software development ro
 
 ## 🔗 Projects
 
-### 🛡️ Sentinel_Grid_V2 — Universal Banking Security Mechanism
+### 🛡️ Sentinel_Grid_V2 — Billing System Protection with Adaptive Deception
 
-**ITWEB Secure Innovation Hackathon 2026**
+**ITWEB Secure Innovation Hackathon 2026** | *Team: Neutral Fence*
 
-A high-fidelity prototype demonstrating a security solution applicable to all banking systems. The prototype addresses how to detect, delay, and respond to active cyberattacks targeting financial institutions.
+> **Live Demo:** [https://heckerthon.netlify.app/](https://heckerthon.netlify.app/)
 
-**Problem Statement:** Banking systems face sophisticated cyberattacks that traditional perimeter defenses cannot stop. Once an attacker breaches the outer layers, banks lack real-time deception mechanisms to stall the attacker while their security team responds.
+**The Problem — Ekurhuleni Billing System Breach**
 
-**Proposed Solution:** Sentinel_Grid_V2 implements a 5-layer defense system with a honeypot deception engine (Sentinel-Grid). When activated, the system feeds attackers fake but convincing data (cards, loans, client PII), stalling them while generating real-time security recommendations.
+The recent Ekurhuleni billing system incident exposed a critical security gap: once attackers breached the outer layers of municipal financial systems, there was nothing stopping them from manipulating client bills, erasing records, and corrupting billing data. Traditional perimeter defenses failed because they assumed breach would never happen — not what happens after.
+
+**Our Solution — Sentinel Grid V2**
+
+Sentinel Grid V2 is a defensive deception layer for billing systems. Our prototype simulates a billing system on one screen and a hacking interface on the other. Five existing security layers feed every log into Sentinel Grid. By the time an attacker exhausts all five layers, Sentinel Grid auto-activates with perfectly nested honeypots showing exactly what hackers want to see — fake bills, fake client data, fake loan records. The attacker believes the hack succeeded, but the real billing data remains 100% intact.
+
+**What Sentinel Grid V2 Demonstrates:**
+
+- How the Ekurhuleni incident could have been prevented
+- A billing system that survives active attack without data loss
+- Hackers trapped in convincing honeypots while real systems stay safe
+- Security teams buying critical response time through deception
 
 | Detail | Information |
 |--------|-------------|
+| **Live Demo** | [https://heckerthon.netlify.app/](https://heckerthon.netlify.app/) |
 | **Repo** | [github.com/LAP777-hub/Sentinel_Grid_V2](https://github.com/LAP777-hub/Sentinel_Grid_V2) |
 | **Tech Stack** | HTML5, CSS3, JavaScript |
-| **Key Features** | Split-view interface, 5-layer attack simulation, Sentinel-Grid honeypot, Real-time SOC recommendations, AI-powered attack simulation |
+| **Key Features** | Split-view (billing + hacking), 5-layer defense logs, Sentinel Grid honeypot activation, Real-time SOC alerts, Attack deception simulation |
+
+**Test the Prototype:**
+live dmo link above credintials for log in are provided upon request
 
 ---
 
@@ -164,5 +182,7 @@ I am open to:
 | **GitHub** | [github.com/SiyaJNdzobs](https://github.com/SiyaJNdzobs) |
 
 ---
+
+⚡ **Lesson learned:** Security belongs in the design phase — not the debug phase. The Ekurhuleni breach happened because nobody planned for what happens after the perimeter falls. Sentinel Grid is that plan.
 
 ⭐ *Thanks for visiting my portfolio!*

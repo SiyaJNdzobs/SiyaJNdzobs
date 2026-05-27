@@ -6,11 +6,11 @@
 **📍 South Africa** | **🎓 Final-Year ICT Student — Sol Plaatje University, Kimberley, Northern Cape**  
 **📧 siyajndzobs@gmail.com** | **📱 0672598417**
 
----
-
 ## 📌 About Me
 
-I am a final-year ICT student focused on becoming a well-rounded full-stack developer with practical, real-world experience in building scalable software systems.
+I am a final-year ICT student at Sol Plaatje University, focused on becoming a well-rounded full-stack developer and Cyber security defence professional with practical, real-world experience in building scalable software systems.
+
+Before tech, I spent years as a Senior Visual Merchandise Specialist and Junior Project Manager at Markham X Relay Jeans — managing teams, store openings, relocations, and seasonal campaigns — and as a facilitator at FEDISA Fashion School. That experience taught me systems thinking, stakeholder coordination, operational discipline, and facilitation. I now apply those skills to software.
 
 ### My development focus includes:
 
@@ -19,9 +19,18 @@ I am a final-year ICT student focused on becoming a well-rounded full-stack deve
 - Backend API Development
 - Database Design & Management
 - Role-Based System Architecture
-- Aspiring Cybersecurity Professional
+- Aspiring Cybersecurity Defence Professional
+
+### Currently:
+
+- Learning defensive security on TryHackMe (`Mazaza1.0`)
+- Mentored by Keo (`gh0stboogyman_047`) in cybersecurity fundamentals
+- Tutoring ICT students (Applications Development, soon Programming & Big Data)
+- Building real-world IT projects and learning-based projects
 
 I am actively strengthening my hands-on experience by building structured, production-style projects and improving my understanding of scalable system design.
+
+*From retail operations to digital defense. Still learning. Still building.*
 
 ---
 
@@ -114,7 +123,7 @@ My goal is to transition confidently into a professional software development ro
 
 ## 🔗 Projects
 
-### 🛡️ Sentinel_Grid_V2 — Billing System Protection with Adaptive Deception
+### Sentinel_Grid_V2 — System Protection
 
 **ITWEB Secure Innovation Hackathon 2026** | *Team: Neutral Fence*
 
@@ -122,7 +131,7 @@ My goal is to transition confidently into a professional software development ro
 
 **The Problem — Ekurhuleni Billing System Breach**
 
-The recent Ekurhuleni billing system incident exposed a critical security gap: once attackers breached the outer layers of municipal financial systems, there was nothing stopping them from manipulating client bills, erasing records, and corrupting billing data. Traditional perimeter defenses failed because they assumed breach would never happen — not what happens after.
+The recent Ekurhuleni billing system incident exposed a critical security gap: once attackers breached the outer layers of municipal financial systems, there was nothing stopping them from manipulating client bills, erasing records, and corrupting billing data. Traditional perimeter defenses failed because they assumed breach would never happen — not what happens after is we came up with a suitable solution.
 
 **Our Solution — Sentinel Grid V2**
 

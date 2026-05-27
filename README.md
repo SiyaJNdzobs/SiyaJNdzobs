@@ -105,6 +105,7 @@ Facilitated Visual Merchandising at the TFG Retail Academy based at FEDISA Fashi
 - Fetching business outside
 
 **Reference:**
+
 Regional Field Visual Merchandising Mananger JD (TFG) Herman Ngobeni — 060 583 5176 |
 Talent Development consultant TFG Retail Academy : Nelisiwe Peyi - 063 545 8056 |
 Tutorship Programme Line Manager - 082 355 5436 |

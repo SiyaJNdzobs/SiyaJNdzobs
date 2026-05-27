@@ -25,7 +25,7 @@ I am actively strengthening my hands-on experience by building structured, produ
 
 ---
 
-## 💻 Technical Stack
+## 💻 Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
@@ -36,9 +36,39 @@ I am actively strengthening my hands-on experience by building structured, produ
 | **Programming** | Python, Java |
 | **Tools** | Git, GitHub, VS Code, NetBeans, Visual Studio, Jupyter Notebook |
 
----
+## 🧠 Professional & Soft Skills
 
-## 🏢 Professional Experience
+| Category | Skills |
+|----------|--------|
+| **Management** | Team Management, People Development, Coaching & Succession Planning |
+| **Operations** | Project Management (NSO & Store Relocations), Retail Operations, Wholesale Operations |
+| **Analysis** | Sales Analysis, Marketing Analysis, Trend Analysis |
+| **Training & Facilitation** | Visual Merchandise Facilitation (TFG Retail Academy / FEDISA Fashion School), Learner Coaching, Succession Planning |
+| **Communication** | Feedback Gathering, Reporting, Stakeholder Coordination |
+| **Problem Solving** | Conflict Resolution, Attention to Detail, Time Management |
+| **Business Development** | Fetching Business Outside, Customer Service |
+| **Creative** | Window Design, Styling, Visual Merchandising |
+
+## Professional Experience
+
+## 🎓 Tutor & Mentorship Experience
+
+**Tutor | FASSET Tutor | GKSS Mentor** — Sol Plaatje University
+*2026 – Present*
+
+Served as an ICT tutor for Applications Development Foundations (NADF511), with upcoming tutoring responsibilities in Programming and Big Data modules from July 2026 through to the end of the academic year. Providing academic support to ICT students through online and contact tutorial sessions, support programmes, consultations, and mentoring initiatives.
+
+**Responsibilities include:**
+- Conducting tutorial sessions and academic consultations
+- Facilitating FASSET Support Programme sessions and Bootcamp classes
+- Assisting students with programming, application development, and Big Data concepts
+- Supporting practical activities, coding exercises, and problem-solving sessions
+- Providing additional student support through Microsoft Teams, WhatsApp, and face-to-face consultations
+- Assisting students with assessment and examination preparation
+- Participating in GKSS mentorship initiatives and voluntary ICT code clinics
+- Facilitating student engagement in modules such as Applications Development, Programming, Web Development, and Big Data
+
+Focused on creating an interactive, supportive, and judgement-free learning environment that promotes collaboration, confidence, and academic growth. Strengthened facilitation, mentorship, communication, leadership, and technical support skills through continuous student engagement and academic support activities.
 
 **Markham X Relay Jeans (2019 – 2023)**  
 *Project Manager / Junior Project Manager*
@@ -50,7 +80,25 @@ I am actively strengthening my hands-on experience by building structured, produ
 - Seasonal Campaign Rollouts
 - Visual Merchandising Coordination
 
-**Reference:** Herman Ngobeni — 0605835176
+**Visual Merchandise Facilitator** — TFG Retail Academy / FEDISA Fashion School (Sandton)
+*April 2020 – November 2023*
+
+Facilitated Visual Merchandising at the TFG Retail Academy based at FEDISA Fashion School. Covered all TFG brands including clothing, jewelry, homeware, and sportswear. This was a career expansion opportunity focused on profile building — no remuneration, just experience in training and facilitation.
+
+**Senior Visual Merchandise Specialist** — Markham X Relay Jeans (Gauteng)
+*April 2018 – December 2023*
+
+- VM Implementations & Yoobic Management at area and store level
+- Educating, coaching, and succession planning
+- Sales and marketing analysis
+- Feedback gathering from store teams and customers
+- Project Management: Revamps and New Store Opens (NSO)
+- Fetching business outside
+
+**Reference:**
+Regional Field Visual Merchandising Mananger JD (TFG) Herman Ngobeni — 060 583 5176 |
+Talent Development consultant TFG Retail Academy : Nelisiwe Peyi - 063 545 8056 |
+Tutorship Programme Line Manager - 082 355 5436 |
 
 This experience strengthened my ability to plan structured workflows, coordinate cross-functional teams, manage timelines, and think in systems logic — skills that now support how I design and structure software projects.
 

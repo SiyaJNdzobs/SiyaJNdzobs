@@ -4,12 +4,7 @@
 
 **Location:** South Africa | **Student:** Final‑Year ICT, Sol Plaatje University
 
----
 
-## About Me
-I am a final‑year ICT student focused on full‑stack development and cybersecurity. I enjoy building production‑grade applications and learning new technologies.
-
----
 
 ## Projects
 
@@ -21,7 +16,4 @@ I am a final‑year ICT student focused on full‑stack development and cybersec
 
 ---
 
-## Contact
-- Email: siyajndzobs@gmail.com
-- Phone: 067‑259‑8417
-- GitHub: [SiyaJNdzobs](https://github.com/SiyaJNdzobs)
+

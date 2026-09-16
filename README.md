@@ -1,6 +1,3 @@
-😂 Got you — **only 2 projects**, and the Netlify link belongs to the **ITWEB Secure Innovation Hackathon** project.
-
-Here is the actual README format you can paste directly into `README.md`:
 
 # Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
 

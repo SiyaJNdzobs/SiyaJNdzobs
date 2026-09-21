@@ -40,6 +40,13 @@ I'm building practical knowledge in cybersecurity, network security, SOC environ
 
 ---
 
+## Activity Overview
+
+| 🔭 Currently Working On                                                                                                                                       | 🌱 Currently Learning                                                                                 | 🤝 Looking to Collaborate On                      | 🆘 Looking for Help With                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Cybersecurity journey, especially **Penetration Testing & SOC**; developing secure apps, web apps and websites; becoming a strong **Full-Stack AI Developer** | ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC & related areas | **Full-Stack, Backend, Frontend & AI Developers** | **Cybersecurity learning & practical guidance** — looking for a cybersecurity coach/mentor. Contact details are provided above. |
+
+
 ## Current Interests
 
 | **Cybersecurity**       | **Software Development**        | **Networking & Infrastructure** | **Emerging Technology**  |

@@ -1,6 +1,6 @@
 #  Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
 
-** Location:** South Africa | ** Open to Learn** | ** Open to Work**
+ Location: South Africa |  Open to Learn | Open to Work
 
 ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in building end-to-end digital solutions from concept to functional prototypes, apps, web apps and websites with secure data practices and a solid Software Development Life Cycle | Self-Led Cybersecurity Learner | Cisco Networking Instructor
 

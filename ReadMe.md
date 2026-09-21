@@ -42,7 +42,7 @@ I'm building practical knowledge in cybersecurity, network security, SOC environ
 
 ## Activity Overview
 
-| 🔭 Currently Working On                                                                                                                                       | 🌱 Currently Learning                                                                                 | 🤝 Looking to Collaborate On                      | 🆘 Looking for Help With                                                                                                        |
+| 🔭 Currently Working On                                                                                                                                       | 🌱 Currently Learning                                                                                 |  Looking to Collaborate On                      |  Looking for Help With                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Cybersecurity journey, especially **Penetration Testing & SOC**; developing secure apps, web apps and websites; becoming a strong **Full-Stack AI Developer** | ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC & related areas | **Full-Stack, Backend, Frontend & AI Developers** | **Cybersecurity learning & practical guidance** — looking for a cybersecurity coach/mentor. Contact details are provided above. |
 
@@ -52,17 +52,14 @@ I'm building practical knowledge in cybersecurity, network security, SOC environ
 | **Cybersecurity**       | **Software Development**        | **Networking & Infrastructure** | **Emerging Technology**  |
 | ----------------------- | ------------------------------- | ------------------------------- | ------------------------ |
 | Security Operations     | Full-Stack Development          | Computer Networking             | Internet of Things (IoT) |
-| Network Security        | AI Applications                 | Cisco Networking                | Artificial Intelligence  |
-| Threat Detection        | FastAPI                         | Network Configuration           | Automation               |
-| Incident Response       | Web Application Development     | Network Security                | Technology Integration   |
-| Blue Team               | Application Development         | Infrastructure Fundamentals     |                          |
-| Penetration Testing     | Website Development             | Troubleshooting                 |                          |
+| Network Security        | AI Applications Development     | Cisco Networking                | Artificial Intelligence  |
+| Threat Detection        | Web Application Development     | Network Configuration           | Automation               |
+| Incident Response       | Application Development         | Network Security                | Technology Integration   |
+| Blue Team               | Website Development             | Infrastructure Fundamentals     |                          |
+| Penetration Testing     | Database Management             | Troubleshooting                 |                          |
 | Secure Systems          | Software Development Life Cycle |                                 |                          |
 | Vulnerability Awareness | Testing & Quality Assurance     |                                 |                          |
 |                         | Systems Thinking & Analysis     |                                 |                          |
 |                         | Data Analysis & Visualization   |                                 |                          |
 |                         | Database Management             |                                 |                          |
-|                         | API Development                 |                                 |                          |
-|                         | React                           |                                 |                          |
-|                         | FastAPI                         |                                 |                          |
-|                         | Python                          |                                 |                          |
+         

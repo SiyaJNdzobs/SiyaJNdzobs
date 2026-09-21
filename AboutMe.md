@@ -1,5 +1,6 @@
 
 # Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
+linkedin: www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba1197
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=SiyaJNdzobs\&label=Profile%20Views\&countColor=%23263759)
 

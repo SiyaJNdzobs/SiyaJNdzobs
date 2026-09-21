@@ -1,11 +1,23 @@
-# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
-**Location:** South Africa | Open to learn | Open to Work
+#  Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
+
+**📍 Location:** South Africa | **📚 Open to Learn** | **💼 Open to Work**
 
 ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in building end-to-end digital solutions from concept to functional prototypes, apps, web apps and websites with secure data practices and a solid Software Development Life Cycle | Self-Led Cybersecurity Learner | Cisco Networking Instructor
 
-**LinkedIn:** [www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119](http://www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119) | **Discord:** `mazaza01` | **WhatsApp:** `+27672598417`
+<p align="left">
+  <strong>💼 LinkedIn:</strong>
+  <a href="http://www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119">
+    www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119
+  </a>
+  &nbsp; | &nbsp;
+  <strong>💬 Discord:</strong> <code>mazaza01</code>
+  &nbsp; | &nbsp;
+  <strong>📱 WhatsApp:</strong> <code>+27672598417</code>
+</p>
 
-<!-- Cybersecurity SOC Dashboard -->
+---
+
+<!-- ==================== SOC HERO ==================== -->
 
 <p align="center">
   <img src="./assets/soc-dashboard.gif"
@@ -20,46 +32,160 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
   <img src="https://img.shields.io/badge/ICT-Student-6f42c1?style=for-the-badge" alt="ICT Student">
 </p>
 
+<p align="left">
+  👁️ <strong>Profile Views</strong>
+</p>
+
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=SiyaJNdzobs\&label=Profile%20Views\&countColor=%23263759)
 
+---
+
+# 📁 Projects
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td><strong>🔵 E-RANK</strong></td>
+<td>
+A taxi-rank management platform developed as an annual <strong>Project Management</strong> project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI and deployed at https://erank.onrender.com.
+</td>
+</tr>
+
+<tr>
+<td><strong>🛡️ ITWEB Secure Innovation Hackathon 2026 — Neutral Fence</strong></td>
+<td>
+A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</strong> for the ITWEB Secure Innovation Hackathon 2026. The <strong>Sentinel Grid</strong> concept demonstrates how multiple security layers and nested honeypots can protect municipal billing systems by isolating real billing data while simulating a successful attack environment for attackers.
+<br><br>
+<a href="https://heckerthon.netlify.app/"><strong>View the deployed project →</strong></a>
+</td>
+</tr>
+
+</table>
 
 ---
 
-## Projects
-
-| Project                                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **E-RANK**                                                 | A taxi-rank management platform developed as an annual **Project Management** project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI and deployed at https://erank.onrender.com.                                            |
-| **ITWEB Secure Innovation Hackathon 2026 — Neutral Fence** | A cybersecurity innovation prototype developed by **Team Neutral Fence** for the ITWEB Secure Innovation Hackathon 2026. The **Sentinel Grid** concept demonstrates how multiple security layers and nested honeypots can protect municipal billing systems by isolating real billing data while simulating a successful attack environment for attackers. [**View the deployed project**](https://heckerthon.netlify.app/). |
-
----
-
-## Cybersecurity Focus
+# 🛡️ Cybersecurity Focus
 
 I'm building practical knowledge in cybersecurity, network security, SOC environments, threat detection, defensive security, vulnerability awareness, secure system design, honeypots and Blue Team practices.
 
 ---
 
-## Activity Overview
+#  Activity Overview
 
-| 🔭 Currently Working On                                                                                                                                       | 🌱 Currently Learning                                                                                 |  Looking to Collaborate On                      |  Looking for Help With                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Cybersecurity journey, especially **Penetration Testing & SOC**; developing secure apps, web apps and websites; becoming a strong **Full-Stack AI Developer** | ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC & related areas | **Full-Stack, Backend, Frontend & AI Developers** | **Cybersecurity learning & practical guidance** — looking for a cybersecurity coach/mentor. Contact details are provided above. |
+<table>
+<tr>
 
+<td width="25%" valign="top">
 
-## Current Interests
+### 🎯 Currently Working On
 
-| **Cybersecurity**       | **Software Development**        | **Networking & Infrastructure** | **Emerging Technology**  |
-| ----------------------- | ------------------------------- | ------------------------------- | ------------------------ |
-| Security Operations     | Full-Stack Development          | Computer Networking             | Internet of Things (IoT) |
-| Network Security        | AI Applications Development     | Cisco Networking                | Artificial Intelligence  |
-| Threat Detection        | Web Application Development     | Network Configuration           | Automation               |
-| Incident Response       | Application Development         | Network Security                | Technology Integration   |
-| Blue Team               | Website Development             | Infrastructure Fundamentals     |                          |
-| Penetration Testing     | Database Management             | Troubleshooting                 |                          |
-| Secure Systems          | Software Development Life Cycle |                                 |                          |
-| Vulnerability Awareness | Testing & Quality Assurance     |                                 |                          |
-|                         | Systems Thinking & Analysis     |                                 |                          |
-|                         | Data Analysis & Visualization   |                                 |                          |
-|                         | Database Management             |                                 |                          |
-         
+Cybersecurity journey, especially **Penetration Testing & SOC**; developing secure apps, web apps and websites; becoming a strong **Full-Stack AI Developer**.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🌱 Currently Learning
+
+ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC & related areas.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 👥 Looking to Collaborate On
+
+**Full-Stack, Backend, Frontend & AI Developers**
+
+</td>
+
+<td width="25%" valign="top">
+
+### ❓ Looking for Help With
+
+**Cybersecurity learning & practical guidance** — looking for a cybersecurity coach/mentor.
+
+Contact details are provided above.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 Current Interests
+
+<table>
+<tr>
+<th> Cybersecurity</th>
+<th> Software Development</th>
+<th> Networking & Infrastructure</th>
+<th> Emerging Technology</th>
+</tr>
+
+<tr>
+<td valign="top">
+
+Security Operations<br>
+Network Security<br>
+Threat Detection<br>
+Incident Response<br>
+Blue Team<br>
+Penetration Testing<br>
+Secure Systems<br>
+Vulnerability Awareness
+
+</td>
+
+<td valign="top">
+
+Full-Stack Development<br>
+AI Applications Development<br>
+Web Application Development<br>
+Application Development<br>
+Website Development<br>
+Database Management<br>
+Software Development Life Cycle<br>
+Testing & Quality Assurance<br>
+Systems Thinking & Analysis<br>
+Data Analysis & Visualization
+
+</td>
+
+<td valign="top">
+
+Computer Networking<br>
+Cisco Networking<br>
+Network Configuration<br>
+Network Security<br>
+Infrastructure Fundamentals<br>
+Troubleshooting
+
+</td>
+
+<td valign="top">
+
+Internet of Things (IoT)<br>
+Artificial Intelligence<br>
+Automation<br>
+Technology Integration
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ==================== SOC MONITOR ==================== -->
+
+<p align="center">
+  <img src="./assets/soc-monitor.gif"
+       alt="SOC Security Operations Center"
+       width="100%">
+</p>

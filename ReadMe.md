@@ -1,18 +1,18 @@
 #  Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
 
-**📍 Location:** South Africa | **📚 Open to Learn** | **💼 Open to Work**
+** Location:** South Africa | ** Open to Learn** | ** Open to Work**
 
 ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in building end-to-end digital solutions from concept to functional prototypes, apps, web apps and websites with secure data practices and a solid Software Development Life Cycle | Self-Led Cybersecurity Learner | Cisco Networking Instructor
 
 <p align="left">
-  <strong>💼 LinkedIn:</strong>
+  <strong> LinkedIn:</strong>
   <a href="http://www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119">
     www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119
   </a>
   &nbsp; | &nbsp;
-  <strong>💬 Discord:</strong> <code>mazaza01</code>
+  <strong> Discord:</strong> <code>mazaza01</code>
   &nbsp; | &nbsp;
-  <strong>📱 WhatsApp:</strong> <code>+27672598417</code>
+  <strong> WhatsApp:</strong> <code>+27672598417</code>
 </p>
 
 ---
@@ -40,7 +40,7 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 
 ---
 
-# 📁 Projects
+# Projects
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 </tr>
 
 <tr>
-<td><strong>🔵 E-RANK</strong></td>
+<td><strong> E-RANK</strong></td>
 <td>
 A taxi-rank management platform developed as an annual <strong>Project Management</strong> project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI and deployed at https://erank.onrender.com.
 </td>
@@ -68,7 +68,7 @@ A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</st
 
 ---
 
-# 🛡️ Cybersecurity Focus
+#  Cybersecurity Focus
 
 I'm building practical knowledge in cybersecurity, network security, SOC environments, threat detection, defensive security, vulnerability awareness, secure system design, honeypots and Blue Team practices.
 
@@ -81,7 +81,7 @@ I'm building practical knowledge in cybersecurity, network security, SOC environ
 
 <td width="25%" valign="top">
 
-### 🎯 Currently Working On
+###  Currently Working On
 
 Cybersecurity journey, especially **Penetration Testing & SOC**; developing secure apps, web apps and websites; becoming a strong **Full-Stack AI Developer**.
 
@@ -89,7 +89,7 @@ Cybersecurity journey, especially **Penetration Testing & SOC**; developing secu
 
 <td width="25%" valign="top">
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC & related areas.
 
@@ -97,7 +97,7 @@ ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing
 
 <td width="25%" valign="top">
 
-### 👥 Looking to Collaborate On
+###  Looking to Collaborate On
 
 **Full-Stack, Backend, Frontend & AI Developers**
 
@@ -105,7 +105,7 @@ ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing
 
 <td width="25%" valign="top">
 
-### ❓ Looking for Help With
+###  Looking for Help With
 
 **Cybersecurity learning & practical guidance** — looking for a cybersecurity coach/mentor.
 
@@ -118,7 +118,7 @@ Contact details are provided above.
 
 ---
 
-# 💡 Current Interests
+#  Current Interests
 
 <table>
 <tr>

@@ -41,7 +41,6 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 ---
 
 # Projects
-
 <table>
 <tr>
 <th>Project</th>
@@ -49,9 +48,11 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 </tr>
 
 <tr>
-<td><strong> E-RANK</strong></td>
+<td><strong>E-RANK</strong></td>
 <td>
-A taxi-rank management platform developed as an annual <strong>Project Management</strong> project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI and deployed at https://erank.onrender.com.
+A taxi-rank management platform developed as an annual <strong>Project Management</strong> project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI.
+<br><br>
+<a href="https://erank.onrender.com"><strong>View the deployed project →</strong></a>
 </td>
 </tr>
 
@@ -65,6 +66,7 @@ A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</st
 </tr>
 
 </table>
+
 
 ---
 

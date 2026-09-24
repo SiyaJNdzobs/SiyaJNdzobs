@@ -184,10 +184,39 @@ Technology Integration
 
 ---
 
-<!-- ==================== SOC MONITOR ==================== -->
+<!-- ==================== GITHUB ACTIVITY DASHBOARD ==================== -->
 
 <p align="center">
-  <img src="./assets/soc-monitor.gif"
-       alt="SOC Security Operations Center"
-       width="100%">
+  <img
+    src="./assets/github-dashboard.svg"
+    alt="GitHub Activity Dashboard"
+    width="100%"
+  >
 </p>
+
+<details>
+<summary><strong> Expand to see my GitHub activity</strong></summary>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/SiyaJNdzobs">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SiyaJNdzobs&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub Statistics"
+  >
+</a>
+
+<a href="https://github.com/SiyaJNdzobs">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiyaJNdzobs&layout=compact&hide_border=true&theme=github_dark"
+    alt="Most Used Languages"
+  >
+</a>
+
+</p>
+
+</details>
+
+<!-- ==================== END GITHUB ACTIVITY DASHBOARD ==================== -->

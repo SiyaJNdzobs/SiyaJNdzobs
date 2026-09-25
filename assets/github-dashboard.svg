@@ -1,0 +1,741 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1000"
+height="760"
+viewBox="0 0 1000 760">
+
+<defs>
+
+<style>
+
+.title {
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    fill: #f0f6fc;
+}
+
+.subtitle {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    fill: #8b949e;
+}
+
+.number {
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    fill: #58a6ff;
+}
+
+.label {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    fill: #8b949e;
+}
+
+.language {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    fill: #c9d1d9;
+}
+
+.percentage {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    fill: #8b949e;
+}
+
+.activity {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    fill: #c9d1d9;
+}
+
+.date {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    fill: #8b949e;
+}
+
+</style>
+
+</defs>
+
+
+<!-- BACKGROUND -->
+
+<rect
+width="1000"
+height="760"
+rx="18"
+fill="#0d1117"
+stroke="#30363d"
+/>
+
+
+<!-- HEADER -->
+
+<text
+x="50"
+y="55"
+class="title">
+
+ GitHub Activity Dashboard
+
+</text>
+
+<text
+x="50"
+y="80"
+class="subtitle">
+
+@SiyaJNdzobs • Automatically updated by GitHub Actions
+
+</text>
+
+
+<!-- STAT CARDS -->
+
+<rect
+x="50"
+y="110"
+width="165"
+height="90"
+rx="12"
+fill="#161b22"
+stroke="#30363d"
+/>
+
+<text x="70" y="145" class="number">
+294
+</text>
+
+<text x="70" y="170" class="label">
+Contributions
+</text>
+
+
+<rect
+x="230"
+y="110"
+width="165"
+height="90"
+rx="12"
+fill="#161b22"
+stroke="#30363d"
+/>
+
+<text x="250" y="145" class="number">
+218
+</text>
+
+<text x="250" y="170" class="label">
+Commits
+</text>
+
+
+<rect
+x="410"
+y="110"
+width="165"
+height="90"
+rx="12"
+fill="#161b22"
+stroke="#30363d"
+/>
+
+<text x="430" y="145" class="number">
+30
+</text>
+
+<text x="430" y="170" class="label">
+Pull Requests
+</text>
+
+
+<rect
+x="590"
+y="110"
+width="165"
+height="90"
+rx="12"
+fill="#161b22"
+stroke="#30363d"
+/>
+
+<text x="610" y="145" class="number">
+2
+</text>
+
+<text x="610" y="170" class="label">
+Code Reviews
+</text>
+
+
+<rect
+x="770"
+y="110"
+width="165"
+height="90"
+rx="12"
+fill="#161b22"
+stroke="#30363d"
+/>
+
+<text x="790" y="145" class="number">
+0
+</text>
+
+<text x="790" y="170" class="label">
+Issues
+</text>
+
+
+<!-- CONTRIBUTION ACTIVITY -->
+
+<text
+x="55"
+y="240"
+class="title"
+font-size="20">
+
+Contribution Activity
+
+</text>
+
+
+    <rect
+      x="55"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="87"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="119"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="151"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="183"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="215"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="247"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="279"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="311"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="343"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="375"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="407"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="439"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="471"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="503"
+      y="325"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#0e4429"
+    />
+    
+    <rect
+      x="55"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="87"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="119"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="151"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="183"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="215"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#006d32"
+    />
+    
+    <rect
+      x="247"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="279"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="311"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="343"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="375"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#39d353"
+    />
+    
+    <rect
+      x="407"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="439"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#161b22"
+    />
+    
+    <rect
+      x="471"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#39d353"
+    />
+    
+    <rect
+      x="503"
+      y="350"
+      width="20"
+      height="20"
+      rx="4"
+      fill="#26a641"
+    />
+    
+
+
+<!-- LANGUAGES -->
+
+<text
+x="600"
+y="370"
+class="title"
+font-size="20">
+
+Languages
+
+</text>
+
+
+    <text x="600" y="205" class="language">
+      JavaScript
+    </text>
+
+    <rect
+      x="700"
+      y="192"
+      width="220"
+      height="12"
+      rx="6"
+      fill="#1f2937"
+    />
+
+    <rect
+      x="700"
+      y="192"
+      width="116"
+      height="12"
+      rx="6"
+      fill="#58a6ff"
+    />
+
+    <text
+      x="940"
+      y="205"
+      class="percentage"
+    >
+      52.9%
+    </text>
+    
+    <text x="600" y="240" class="language">
+      Python
+    </text>
+
+    <rect
+      x="700"
+      y="227"
+      width="220"
+      height="12"
+      rx="6"
+      fill="#1f2937"
+    />
+
+    <rect
+      x="700"
+      y="227"
+      width="56"
+      height="12"
+      rx="6"
+      fill="#58a6ff"
+    />
+
+    <text
+      x="940"
+      y="240"
+      class="percentage"
+    >
+      25.7%
+    </text>
+    
+    <text x="600" y="275" class="language">
+      Jupyter Notebook
+    </text>
+
+    <rect
+      x="700"
+      y="262"
+      width="220"
+      height="12"
+      rx="6"
+      fill="#1f2937"
+    />
+
+    <rect
+      x="700"
+      y="262"
+      width="20"
+      height="12"
+      rx="6"
+      fill="#58a6ff"
+    />
+
+    <text
+      x="940"
+      y="275"
+      class="percentage"
+    >
+      9.4%
+    </text>
+    
+    <text x="600" y="310" class="language">
+      HTML
+    </text>
+
+    <rect
+      x="700"
+      y="297"
+      width="220"
+      height="12"
+      rx="6"
+      fill="#1f2937"
+    />
+
+    <rect
+      x="700"
+      y="297"
+      width="18"
+      height="12"
+      rx="6"
+      fill="#58a6ff"
+    />
+
+    <text
+      x="940"
+      y="310"
+      class="percentage"
+    >
+      8.3%
+    </text>
+    
+    <text x="600" y="345" class="language">
+      CSS
+    </text>
+
+    <rect
+      x="700"
+      y="332"
+      width="220"
+      height="12"
+      rx="6"
+      fill="#1f2937"
+    />
+
+    <rect
+      x="700"
+      y="332"
+      width="5"
+      height="12"
+      rx="6"
+      fill="#58a6ff"
+    />
+
+    <text
+      x="940"
+      y="345"
+      class="percentage"
+    >
+      2.7%
+    </text>
+    
+    <text x="600" y="380" class="language">
+      Shell
+    </text>
+
+    <rect
+      x="700"
+      y="367"
+      width="220"
+      height="12"
+      rx="6"
+      fill="#1f2937"
+    />
+
+    <rect
+      x="700"
+      y="367"
+      width="2"
+      height="12"
+      rx="6"
+      fill="#58a6ff"
+    />
+
+    <text
+      x="940"
+      y="380"
+      class="percentage"
+    >
+      1.0%
+    </text>
+    
+
+
+<!-- RECENT ACTIVITY -->
+
+<text
+x="55"
+y="445"
+class="title"
+font-size="20">
+
+Recent Activity
+
+</text>
+
+
+    <text x="55" y="475" class="activity">
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+    </text>
+
+    <text x="900" y="475" class="date">
+      24 Sep 2026
+    </text>
+    
+    <text x="55" y="513" class="activity">
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+    </text>
+
+    <text x="900" y="513" class="date">
+      24 Sep 2026
+    </text>
+    
+    <text x="55" y="551" class="activity">
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+    </text>
+
+    <text x="900" y="551" class="date">
+      25 Sep 2026
+    </text>
+    
+    <text x="55" y="589" class="activity">
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+    </text>
+
+    <text x="900" y="589" class="date">
+      25 Sep 2026
+    </text>
+    
+    <text x="55" y="627" class="activity">
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+    </text>
+
+    <text x="900" y="627" class="date">
+      24 Sep 2026
+    </text>
+    
+
+
+<!-- FOOTER -->
+
+<text
+x="55"
+y="730"
+class="subtitle">
+
+Updated automatically • GitHub API • Public activity
+
+</text>
+
+</svg>

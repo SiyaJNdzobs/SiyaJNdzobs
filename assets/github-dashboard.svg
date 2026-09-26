@@ -108,7 +108,7 @@ stroke="#30363d"
 />
 
 <text x="70" y="145" class="number">
-294
+326
 </text>
 
 <text x="70" y="170" class="label">
@@ -127,7 +127,7 @@ stroke="#30363d"
 />
 
 <text x="250" y="145" class="number">
-218
+249
 </text>
 
 <text x="250" y="170" class="label">
@@ -328,7 +328,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#0e4429"
     />
     
     <rect
@@ -337,7 +337,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#0e4429"
+      fill="#161b22"
     />
     
     <rect
@@ -382,7 +382,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#006d32"
     />
     
     <rect
@@ -391,7 +391,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -427,7 +427,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -436,7 +436,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
     <rect
@@ -454,7 +454,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -472,7 +472,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#26a641"
+      fill="#39d353"
     />
     
 
@@ -491,7 +491,7 @@ Languages
 
 
     <text x="600" y="205" class="language">
-      JavaScript
+      Jupyter Notebook
     </text>
 
     <rect
@@ -506,7 +506,7 @@ Languages
     <rect
       x="700"
       y="192"
-      width="116"
+      width="165"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -517,11 +517,11 @@ Languages
       y="205"
       class="percentage"
     >
-      52.9%
+      75.3%
     </text>
     
     <text x="600" y="240" class="language">
-      Python
+      JavaScript
     </text>
 
     <rect
@@ -536,7 +536,7 @@ Languages
     <rect
       x="700"
       y="227"
-      width="56"
+      width="31"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -547,11 +547,11 @@ Languages
       y="240"
       class="percentage"
     >
-      25.7%
+      14.4%
     </text>
     
     <text x="600" y="275" class="language">
-      Jupyter Notebook
+      Python
     </text>
 
     <rect
@@ -566,7 +566,7 @@ Languages
     <rect
       x="700"
       y="262"
-      width="20"
+      width="15"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -577,7 +577,7 @@ Languages
       y="275"
       class="percentage"
     >
-      9.4%
+      7.0%
     </text>
     
     <text x="600" y="310" class="language">
@@ -596,7 +596,7 @@ Languages
     <rect
       x="700"
       y="297"
-      width="18"
+      width="4"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -607,7 +607,7 @@ Languages
       y="310"
       class="percentage"
     >
-      8.3%
+      2.3%
     </text>
     
     <text x="600" y="345" class="language">
@@ -626,7 +626,7 @@ Languages
     <rect
       x="700"
       y="332"
-      width="5"
+      width="1"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -637,7 +637,7 @@ Languages
       y="345"
       class="percentage"
     >
-      2.7%
+      0.7%
     </text>
     
     <text x="600" y="380" class="language">
@@ -656,7 +656,7 @@ Languages
     <rect
       x="700"
       y="367"
-      width="2"
+      width="0"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -667,7 +667,7 @@ Languages
       y="380"
       class="percentage"
     >
-      1.0%
+      0.3%
     </text>
     
 
@@ -690,7 +690,7 @@ Recent Activity
     </text>
 
     <text x="900" y="475" class="date">
-      24 Sep 2026
+      26 Sep 2026
     </text>
     
     <text x="55" y="513" class="activity">
@@ -698,7 +698,7 @@ Recent Activity
     </text>
 
     <text x="900" y="513" class="date">
-      24 Sep 2026
+      26 Sep 2026
     </text>
     
     <text x="55" y="551" class="activity">
@@ -722,7 +722,7 @@ Recent Activity
     </text>
 
     <text x="900" y="627" class="date">
-      24 Sep 2026
+      25 Sep 2026
     </text>
     
 

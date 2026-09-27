@@ -54,10 +54,10 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 <td>
 An empirical machine learning forecasting system and executive decision-support platform predicting 2026 ward-level voter turnout across all 921 wards in KwaZulu-Natal. Harmonizes 21 years of longitudinal IEC election records (2000–2021) with Stats SA QLFS employment metrics and multidimensional poverty indices using an ensemble Random Forest Regressor (MAE 4.59%, RMSE 6.31%). Features interactive 2000–2026 period filtering, voter-to-population participation indicators, and solid party-color spatial cartography.
 <br><br>
-<a href="https://kzn-election-turnout-predictor-zjgdsdekfa7zfxqsdaotwa.streamlit.app/"><strong>View the deployed project →</strong></a>
+<a href="https://kzn-election-turnout-predictor-zjgdsdekfa7zfxqsdaotwa.streamlit.app/"><strong>View the deployed project </strong></a>
 </td>
 <td>
-<a href="https://github.com/SiyaJNdzobs/SPU-TEAM-DIRISA"><strong>Project Repo →</strong></a>
+<a href="https://github.com/SiyaJNdzobs/SPU-TEAM-DIRISA"><strong>Project Repo </strong></a>
 </td>
 </tr>
 
@@ -66,10 +66,10 @@ An empirical machine learning forecasting system and executive decision-support 
 <td>
 A taxi-rank management platform developed as an annual <strong>Project Management</strong> project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI.
 <br><br>
-<a href="https://erank.onrender.com"><strong>View the deployed project →</strong></a>
+<a href="https://erank.onrender.com"><strong>View the deployed project </strong></a>
 </td>
 <td>
-<a href="https://github.com/SiyaJNdzobs/NPRT63PMPSOLUTIONS"><strong>Project Repo →</strong></a>
+<a href="https://github.com/SiyaJNdzobs/NPRT63PMPSOLUTIONS"><strong>Project Repo </strong></a>
 </td>
 </tr>
 
@@ -78,10 +78,10 @@ A taxi-rank management platform developed as an annual <strong>Project Managemen
 <td>
 A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</strong> for the ITWEB Secure Innovation Hackathon 2026. The <strong>Sentinel Grid</strong> concept demonstrates how multiple security layers and nested honeypots can protect municipal billing systems by isolating real billing data while simulating a successful attack environment for attackers.
 <br><br>
-<a href="https://heckerthon.netlify.app/"><strong>View the deployed project →</strong></a>
+<a href="https://heckerthon.netlify.app/"><strong>View the deployed project </strong></a>
 </td>
 <td>
-<a href="https://github.com/LAP777-hub/Sentinel_Grid_V2"><strong>Project Repo →</strong></a>
+<a href="https://github.com/LAP777-hub/Sentinel_Grid_V2"><strong>Project Repo </strong></a>
 </td>
 </tr>
 

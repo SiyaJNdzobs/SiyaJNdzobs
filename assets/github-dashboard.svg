@@ -108,7 +108,7 @@ stroke="#30363d"
 />
 
 <text x="70" y="145" class="number">
-326
+356
 </text>
 
 <text x="70" y="170" class="label">
@@ -127,7 +127,7 @@ stroke="#30363d"
 />
 
 <text x="250" y="145" class="number">
-249
+279
 </text>
 
 <text x="250" y="170" class="label">
@@ -319,7 +319,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#0e4429"
     />
     
     <rect
@@ -328,7 +328,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#0e4429"
+      fill="#161b22"
     />
     
     <rect
@@ -373,7 +373,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#006d32"
     />
     
     <rect
@@ -382,7 +382,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -418,7 +418,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -427,7 +427,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
     <rect
@@ -445,7 +445,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -472,7 +472,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
 
@@ -506,7 +506,7 @@ Languages
     <rect
       x="700"
       y="192"
-      width="165"
+      width="190"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -517,7 +517,7 @@ Languages
       y="205"
       class="percentage"
     >
-      75.3%
+      86.4%
     </text>
     
     <text x="600" y="240" class="language">
@@ -536,7 +536,7 @@ Languages
     <rect
       x="700"
       y="227"
-      width="31"
+      width="17"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -547,7 +547,7 @@ Languages
       y="240"
       class="percentage"
     >
-      14.4%
+      8.0%
     </text>
     
     <text x="600" y="275" class="language">
@@ -566,7 +566,7 @@ Languages
     <rect
       x="700"
       y="262"
-      width="15"
+      width="8"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -577,7 +577,7 @@ Languages
       y="275"
       class="percentage"
     >
-      7.0%
+      3.9%
     </text>
     
     <text x="600" y="310" class="language">
@@ -596,7 +596,7 @@ Languages
     <rect
       x="700"
       y="297"
-      width="4"
+      width="2"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -607,7 +607,7 @@ Languages
       y="310"
       class="percentage"
     >
-      2.3%
+      1.3%
     </text>
     
     <text x="600" y="345" class="language">
@@ -626,7 +626,7 @@ Languages
     <rect
       x="700"
       y="332"
-      width="1"
+      width="0"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -637,7 +637,7 @@ Languages
       y="345"
       class="percentage"
     >
-      0.7%
+      0.4%
     </text>
     
     <text x="600" y="380" class="language">
@@ -667,7 +667,7 @@ Languages
       y="380"
       class="percentage"
     >
-      0.3%
+      0.2%
     </text>
     
 
@@ -706,7 +706,7 @@ Recent Activity
     </text>
 
     <text x="900" y="551" class="date">
-      25 Sep 2026
+      26 Sep 2026
     </text>
     
     <text x="55" y="589" class="activity">
@@ -714,7 +714,7 @@ Recent Activity
     </text>
 
     <text x="900" y="589" class="date">
-      25 Sep 2026
+      26 Sep 2026
     </text>
     
     <text x="55" y="627" class="activity">
@@ -722,7 +722,7 @@ Recent Activity
     </text>
 
     <text x="900" y="627" class="date">
-      25 Sep 2026
+      26 Sep 2026
     </text>
     
 

@@ -51,7 +51,7 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 <tr>
 <td><strong> IEC Local Government Elections Turnout Predictor Model</strong></td>
 <td>
-An empirical machine learning forecasting system and executive decision-support platform predicting 2026 ward-level voter turnout across all 921 wards in KwaZulu-Natal. Harmonizes 21 years of longitudinal IEC election records (2000–2021) with Stats SA QLFS employment metrics and multidimensional poverty indices using an ensemble Random Forest Regressor (MAE 4.59%, RMSE 6.31%). Features interactive 2000–2026 period filtering, voter-to-population participation indicators, and solid party-color spatial cartography.
+An empirical machine learning forecasting system and executive decision-support platform predicting 2026 ward-level voter turnout across all 921 wards in KwaZulu-Natal. Harmonizes 21 years of longitudinal IEC election records (2000–2021) with Stats SA QLFS employment metrics and multidimensional poverty indices using an ensemble Random Forest Regressor (MAE 4.59%, RMSE 6.31%). Features interactive 2000–2026 period filtering, voter-to-population participation indicators, and solid party-color spatial cartography. Model yet to be scaled to National KZN was a pilot province to check if end goal can be reached at an acceptable model performance %'s and other related figures to help concerned parties to make insightful and real and actionable data.
 <br><br>
 <a href="https://kzn-election-turnout-predictor-zjgdsdekfa7zfxqsdaotwa.streamlit.app/"><strong>View the deployed project </strong></a>
 </td>

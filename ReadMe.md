@@ -13,7 +13,6 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
   &nbsp; | &nbsp;
   <strong> Discord:</strong> <code>mazaza01</code>
   &nbsp; | &nbsp;
-  <strong> WhatsApp:</strong> <code>+27672598417</code>
 </p>
 
 ---

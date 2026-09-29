@@ -26,10 +26,13 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-SOC%20%7C%20Blue%20Team-0b84f3?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity SOC">
-  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-b91c1c?style=for-the-badge" alt="Penetration Testing">
-  <img src="https://img.shields.io/badge/Focus-Network%20Security-111827?style=for-the-badge" alt="Network Security">
-  <img src="https://img.shields.io/badge/ICT-Student-6f42c1?style=for-the-badge" alt="ICT Student">
+  <img src="https://img.shields.io/badge/Cybersecurity-SOC%20%7C%20Blue%20Team-0b84f3?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity — SOC and Blue Team">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Offensive%20Security-b91c1c?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing — Offensive Security">
+  <img src="https://img.shields.io/badge/Network%20Security-Infrastructure-111827?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security — Infrastructure">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Development-6f42c1?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineering — Development">
+  <img src="https://img.shields.io/badge/Data%20Science-Machine%20Learning-ff9800?style=for-the-badge&logo=python&logoColor=white" alt="Data Science — Machine Learning">
+  <img src="https://img.shields.io/badge/Web%20%26%20App%20Development-Full%20Stack-16a34a?style=for-the-badge&logo=javascript&logoColor=white" alt="Web and App Development — Full Stack">
+  <img src="https://img.shields.io/badge/ICT-Student-7c3aed?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="ICT Student">
 </p>
 
 <p align="left">

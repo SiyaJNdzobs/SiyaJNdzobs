@@ -1,17 +1,17 @@
-#  Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
+# Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
 Emails: siyajndzobs@gmail.com | 202441850@spu.ac.za
 
- Location: South Africa |  Open to Learn | Open to Work
+Location: South Africa | Open to Learn | Open to Work
 
-ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in building end-to-end digital solutions from concept to functional prototypes and MVPs | Basic Background of Data Science |, apps, web apps and websites with secure data practices and a solid Software Development Life Cycle | Self-Led Cybersecurity Learner | Cisco Networking Instructor
+ICT Final-Year Student | Becoming a Full-Stack AI Developer | Building end-to-end digital solutions, from concept to functional prototypes and MVPs, including apps, web apps and websites, with secure data practices and a solid Software Development Life Cycle | Foundation in Data Science | Self-Led Cybersecurity Learner | Cisco Networking Instructor
 
 <p align="left">
-  <strong> LinkedIn:</strong>
+  <strong>LinkedIn:</strong>
   <a href="http://www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119">
     www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119
   </a>
   &nbsp; | &nbsp;
-  <strong> Discord:</strong> <code>mazaza01</code>
+  <strong>Discord:</strong> <code>mazaza01</code>
   &nbsp; | &nbsp;
 </p>
 
@@ -36,7 +36,7 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 </p>
 
 <p align="left">
-  👁️ <strong>Profile Views</strong>
+  <strong>Profile Views</strong>
 </p>
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=SiyaJNdzobs\&label=Profile%20Views\&countColor=%23263759)
@@ -52,38 +52,38 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Experienced in bui
 </tr>
 
 <tr>
-<td><strong> IEC Local Government Elections Turnout Predictor Model</strong></td>
+<td><strong>IEC Local Government Elections Turnout Predictor Model</strong></td>
 <td>
-An empirical machine learning forecasting system and executive decision-support platform predicting 2026 ward-level voter turnout across all 921 wards in KwaZulu-Natal. Harmonizes 21 years of longitudinal IEC election records (2000–2021) with Stats SA QLFS employment metrics and multidimensional poverty indices using an ensemble Random Forest Regressor (MAE 4.59%, RMSE 6.31%). Features interactive 2000–2026 period filtering, voter-to-population participation indicators, and solid party-color spatial cartography. Model yet to be scaled to National KZN was a pilot province to check if end goal can be reached at an acceptable model performance %'s and other related figures to help concerned parties to make insightful and real and actionable data.
+A machine learning forecasting system and executive decision-support platform that predicts 2026 ward-level voter turnout across all 921 wards in KwaZulu-Natal. It harmonises 21 years of longitudinal IEC election records (2000–2021) with Stats SA QLFS employment metrics and multidimensional poverty indices, and uses an ensemble Random Forest Regressor (MAE 4.59%, RMSE 6.31%). Features include interactive 2000–2026 period filtering, voter-to-population participation indicators, and spatial maps coloured by party. KwaZulu-Natal served as the pilot province to test whether the end goal can be reached at acceptable model performance; the model is yet to be scaled nationally. The aim is to give concerned parties real, insightful and actionable data.
 <br><br>
-<a href="https://kzn-election-turnout-predictor-zjgdsdekfa7zfxqsdaotwa.streamlit.app/"><strong>View the deployed project </strong></a>
+<a href="https://kzn-election-turnout-predictor-zjgdsdekfa7zfxqsdaotwa.streamlit.app/"><strong>View the deployed project</strong></a>
 </td>
 <td>
-<a href="https://github.com/SiyaJNdzobs/SPU-TEAM-DIRISA"><strong>Project Repo </strong></a>
+<a href="https://github.com/SiyaJNdzobs/SPU-TEAM-DIRISA"><strong>Project Repo</strong></a>
 </td>
 </tr>
 
 <tr>
 <td><strong>E-RANK</strong></td>
 <td>
-A taxi-rank management platform developed as an annual <strong>Project Management</strong> project during my 3rd year. The system digitizes taxi-rank operations, allowing taxi owners to track revenue while marshals manage passenger and trip information to improve safety, accountability, and tracking of losses. Built with React + FastAPI.
+A taxi-rank management platform built as an annual <strong>Project Management</strong> project during my 3rd year. The system digitises taxi-rank operations: taxi owners can track revenue, while marshals manage passenger and trip information to improve safety, accountability, and the tracking of losses. Built with React and FastAPI.
 <br><br>
-<a href="https://erank.onrender.com"><strong>View the deployed project </strong></a>
+<a href="https://erank.onrender.com"><strong>View the deployed project</strong></a>
 </td>
 <td>
-<a href="https://github.com/SiyaJNdzobs/NPRT63PMPSOLUTIONS"><strong>Project Repo </strong></a>
+<a href="https://github.com/SiyaJNdzobs/NPRT63PMPSOLUTIONS"><strong>Project Repo</strong></a>
 </td>
 </tr>
 
 <tr>
-<td><strong>🛡️ ITWEB Secure Innovation Hackathon 2026 — Neutral Fence</strong></td>
+<td><strong>ITWEB Secure Innovation Hackathon 2026 — Neutral Fence</strong></td>
 <td>
-A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</strong> for the ITWEB Secure Innovation Hackathon 2026. The <strong>Sentinel Grid</strong> concept demonstrates how multiple security layers and nested honeypots can protect municipal billing systems by isolating real billing data while simulating a successful attack environment for attackers.
+A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</strong> for the ITWEB Secure Innovation Hackathon 2026. The <strong>Sentinel Grid</strong> concept shows how multiple security layers and nested honeypots can protect municipal billing systems, isolating real billing data while presenting attackers with a simulated environment in which their attack appears to have succeeded.
 <br><br>
-<a href="https://heckerthon.netlify.app/"><strong>View the deployed project </strong></a>
+<a href="https://heckerthon.netlify.app/"><strong>View the deployed project</strong></a>
 </td>
 <td>
-<a href="https://github.com/LAP777-hub/Sentinel_Grid_V2"><strong>Project Repo </strong></a>
+<a href="https://github.com/LAP777-hub/Sentinel_Grid_V2"><strong>Project Repo</strong></a>
 </td>
 </tr>
 
@@ -92,46 +92,46 @@ A cybersecurity innovation prototype developed by <strong>Team Neutral Fence</st
 
 ---
 
-#  Cybersecurity Focus
+# Cybersecurity Focus
 
 I'm building practical knowledge in cybersecurity, network security, SOC environments, threat detection, defensive security, vulnerability awareness, secure system design, honeypots and Blue Team practices.
 
 ---
 
-#  Activity Overview
+# Activity Overview
 
 <table>
 <tr>
 
 <td width="25%" valign="top">
 
-###  Currently Working On
+### Currently Working On
 
-Cybersecurity journey, especially **Penetration Testing & SOC**; developing secure apps, web apps and websites; becoming a strong **Full-Stack AI Developer**.
-
-</td>
-
-<td width="25%" valign="top">
-
-###  Currently Learning
-
-ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC & related areas.
+My cybersecurity journey, especially **Penetration Testing and SOC**; developing secure apps, web apps and websites; and growing into a strong **Full-Stack AI Developer**.
 
 </td>
 
 <td width="25%" valign="top">
 
-###  Looking to Collaborate On
+### Currently Learning
 
-**Full-Stack, Backend, Frontend & AI Developers**
+ICT applications, Full-Stack Development, AI, Cybersecurity, Penetration Testing, SOC and related areas.
 
 </td>
 
 <td width="25%" valign="top">
 
-###  Looking for Help With
+### Looking to Collaborate On
 
-**Cybersecurity learning & practical guidance** — looking for a cybersecurity coach/mentor.
+**Full-Stack, Backend, Frontend and AI Developers**
+
+</td>
+
+<td width="25%" valign="top">
+
+### Looking for Help With
+
+**Cybersecurity learning and practical guidance.** I am looking for a cybersecurity coach or mentor.
 
 Contact details are provided above.
 
@@ -142,14 +142,14 @@ Contact details are provided above.
 
 ---
 
-#  Current Interests
+# Current Interests
 
 <table>
 <tr>
-<th> Cybersecurity</th>
-<th> Software Development</th>
-<th> Networking & Infrastructure</th>
-<th> Emerging Technology</th>
+<th>Cybersecurity</th>
+<th>Software Development</th>
+<th>Networking and Infrastructure</th>
+<th>Emerging Technology</th>
 </tr>
 
 <tr>
@@ -175,9 +175,9 @@ Application Development<br>
 Website Development<br>
 Database Management<br>
 Software Development Life Cycle<br>
-Testing & Quality Assurance<br>
-Systems Thinking & Analysis<br>
-Data Analysis & Visualization
+Testing and Quality Assurance<br>
+Systems Thinking and Analysis<br>
+Data Analysis and Visualisation
 
 </td>
 
@@ -205,3 +205,11 @@ Technology Integration
 </table>
 
 ---
+
+<!-- ==================== SOFTWARE ENGINEERING ==================== -->
+
+<p align="center">
+  <img src="./assets/software-engineering.gif"
+       alt="Hundreds of lines of backend code scrolling beside a mobile emulator running a SAPS Docket System app"
+       width="100%">
+</p>

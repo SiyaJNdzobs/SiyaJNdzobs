@@ -108,7 +108,7 @@ stroke="#30363d"
 />
 
 <text x="70" y="145" class="number">
-404
+419
 </text>
 
 <text x="70" y="170" class="label">
@@ -127,7 +127,7 @@ stroke="#30363d"
 />
 
 <text x="250" y="145" class="number">
-327
+342
 </text>
 
 <text x="250" y="170" class="label">
@@ -301,7 +301,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#0e4429"
     />
     
     <rect
@@ -310,7 +310,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#0e4429"
+      fill="#161b22"
     />
     
     <rect
@@ -355,7 +355,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#006d32"
     />
     
     <rect
@@ -364,7 +364,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -400,7 +400,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -409,7 +409,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
     <rect
@@ -427,7 +427,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -472,7 +472,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#26a641"
+      fill="#161b22"
     />
     
 
@@ -517,7 +517,7 @@ Languages
       y="205"
       class="percentage"
     >
-      94.1%
+      94.0%
     </text>
     
     <text x="600" y="240" class="language">
@@ -547,7 +547,7 @@ Languages
       y="240"
       class="percentage"
     >
-      2.9%
+      2.7%
     </text>
     
     <text x="600" y="275" class="language">
@@ -577,7 +577,7 @@ Languages
       y="275"
       class="percentage"
     >
-      2.3%
+      2.7%
     </text>
     
     <text x="600" y="310" class="language">
@@ -596,7 +596,7 @@ Languages
     <rect
       x="700"
       y="297"
-      width="1"
+      width="0"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -607,7 +607,7 @@ Languages
       y="310"
       class="percentage"
     >
-      0.5%
+      0.4%
     </text>
     
     <text x="600" y="345" class="language">
@@ -686,7 +686,7 @@ Recent Activity
 
 
     <text x="55" y="475" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+       Pushed 0 commit(s) to SiyaJNdzobs/SiyaJNdzobs
     </text>
 
     <text x="900" y="475" class="date">
@@ -714,7 +714,7 @@ Recent Activity
     </text>
 
     <text x="900" y="589" class="date">
-      27 Sep 2026
+      28 Sep 2026
     </text>
     
     <text x="55" y="627" class="activity">
@@ -722,7 +722,7 @@ Recent Activity
     </text>
 
     <text x="900" y="627" class="date">
-      27 Sep 2026
+      28 Sep 2026
     </text>
     
 

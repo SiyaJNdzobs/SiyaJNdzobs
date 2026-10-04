@@ -206,10 +206,3 @@ Technology Integration
 
 ---
 
-<!-- ==================== SOFTWARE ENGINEERING ==================== -->
-
-<p align="center">
-  <img src="./assets/software-engineering.gif"
-       alt="Hundreds of lines of backend code scrolling beside a mobile emulator running a SAPS Docket System app"
-       width="100%">
-</p>

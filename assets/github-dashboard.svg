@@ -108,7 +108,7 @@ stroke="#30363d"
 />
 
 <text x="70" y="145" class="number">
-426
+431
 </text>
 
 <text x="70" y="170" class="label">
@@ -127,7 +127,7 @@ stroke="#30363d"
 />
 
 <text x="250" y="145" class="number">
-349
+354
 </text>
 
 <text x="250" y="170" class="label">
@@ -238,7 +238,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#0e4429"
     />
     
     <rect
@@ -247,7 +247,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#0e4429"
+      fill="#161b22"
     />
     
     <rect
@@ -292,7 +292,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#006d32"
     />
     
     <rect
@@ -301,7 +301,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -337,7 +337,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -346,7 +346,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
     <rect
@@ -364,7 +364,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -409,7 +409,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#006d32"
     />
     
     <rect
@@ -427,7 +427,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -463,7 +463,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#26a641"
     />
     
     <rect
@@ -472,7 +472,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#0e4429"
+      fill="#161b22"
     />
     
 
@@ -506,7 +506,7 @@ Languages
     <rect
       x="700"
       y="192"
-      width="206"
+      width="204"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -517,11 +517,11 @@ Languages
       y="205"
       class="percentage"
     >
-      94.0%
+      93.0%
     </text>
     
     <text x="600" y="240" class="language">
-      JavaScript
+      Python
     </text>
 
     <rect
@@ -536,7 +536,7 @@ Languages
     <rect
       x="700"
       y="227"
-      width="6"
+      width="8"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -547,11 +547,11 @@ Languages
       y="240"
       class="percentage"
     >
-      2.7%
+      3.7%
     </text>
     
     <text x="600" y="275" class="language">
-      Python
+      JavaScript
     </text>
 
     <rect
@@ -686,35 +686,35 @@ Recent Activity
 
 
     <text x="55" y="475" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/SiyaJNdzobs
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
     </text>
 
     <text x="900" y="475" class="date">
-      04 Oct 2026
+      05 Oct 2026
     </text>
     
     <text x="55" y="513" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/NPRT63PMPSOLUTIONS
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
     </text>
 
     <text x="900" y="513" class="date">
-      04 Oct 2026
+      05 Oct 2026
     </text>
     
     <text x="55" y="551" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/NPRT63PMPSOLUTIONS
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
     </text>
 
     <text x="900" y="551" class="date">
-      04 Oct 2026
+      05 Oct 2026
     </text>
     
     <text x="55" y="589" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/NPRT63PMPSOLUTIONS
+       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
     </text>
 
     <text x="900" y="589" class="date">
-      29 Sep 2026
+      05 Oct 2026
     </text>
     
     <text x="55" y="627" class="activity">
@@ -722,7 +722,7 @@ Recent Activity
     </text>
 
     <text x="900" y="627" class="date">
-      29 Sep 2026
+      05 Oct 2026
     </text>
     
 

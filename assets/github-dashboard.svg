@@ -211,7 +211,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#006d32"
     />
     
     <rect
@@ -220,7 +220,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -256,7 +256,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -265,7 +265,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
     <rect
@@ -283,7 +283,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -328,7 +328,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#006d32"
     />
     
     <rect
@@ -346,7 +346,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -382,7 +382,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#26a641"
     />
     
     <rect
@@ -391,7 +391,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#26a641"
+      fill="#161b22"
     />
     
     <rect
@@ -517,7 +517,7 @@ Languages
       y="205"
       class="percentage"
     >
-      93.0%
+      92.9%
     </text>
     
     <text x="600" y="240" class="language">
@@ -566,7 +566,7 @@ Languages
     <rect
       x="700"
       y="262"
-      width="5"
+      width="6"
       height="12"
       rx="6"
       fill="#58a6ff"
@@ -690,23 +690,23 @@ Recent Activity
     </text>
 
     <text x="900" y="475" class="date">
-      12 Oct 2026
+      14 Oct 2026
     </text>
     
     <text x="55" y="513" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+       Pushed 0 commit(s) to SiyaJNdzobs/NPRT63PMPSOLUTIONS
     </text>
 
     <text x="900" y="513" class="date">
-      05 Oct 2026
+      12 Oct 2026
     </text>
     
     <text x="55" y="551" class="activity">
-       Pushed 0 commit(s) to SiyaJNdzobs/SPU-TEAM-DIRISA
+       Pushed 0 commit(s) to SiyaJNdzobs/NPRT63PMPSOLUTIONS
     </text>
 
     <text x="900" y="551" class="date">
-      05 Oct 2026
+      12 Oct 2026
     </text>
     
     <text x="55" y="589" class="activity">

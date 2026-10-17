@@ -238,7 +238,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -247,7 +247,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#161b22"
     />
     
     <rect
@@ -265,7 +265,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#39d353"
     />
     
     <rect
@@ -310,7 +310,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#39d353"
+      fill="#006d32"
     />
     
     <rect
@@ -328,7 +328,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -364,7 +364,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#26a641"
     />
     
     <rect
@@ -373,7 +373,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#26a641"
+      fill="#161b22"
     />
     
     <rect
@@ -547,7 +547,7 @@ Languages
       y="240"
       class="percentage"
     >
-      3.7%
+      3.8%
     </text>
     
     <text x="600" y="275" class="language">
@@ -690,7 +690,7 @@ Recent Activity
     </text>
 
     <text x="900" y="475" class="date">
-      14 Oct 2026
+      16 Oct 2026
     </text>
     
     <text x="55" y="513" class="activity">
@@ -714,7 +714,7 @@ Recent Activity
     </text>
 
     <text x="900" y="589" class="date">
-      12 Oct 2026
+      14 Oct 2026
     </text>
     
     <text x="55" y="627" class="activity">

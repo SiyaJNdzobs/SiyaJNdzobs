@@ -1,5 +1,5 @@
 # Hi, I'm Siyabonga José Ndzobondzobo (SiyaB)
-Emails: siyajndzobs@gmail.com | 202441850@spu.ac.za
+Email: siyajndzobs@gmail.com 
 
 Location: South Africa | Open to Learn | Open to Work
 
@@ -7,7 +7,7 @@ ICT Final-Year Student | Becoming a Full-Stack AI Developer | Building end-to-en
 
 <p align="left">
   <strong>LinkedIn:</strong>
-  <a href="http://www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119">
+  <a href="http://www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba1197">
     www.linkedin.com/in/siyabonga-josé-ndzobondzobo-16bba119
   </a>
   &nbsp; | &nbsp;

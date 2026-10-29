@@ -108,7 +108,7 @@ stroke="#30363d"
 />
 
 <text x="70" y="145" class="number">
-431
+432
 </text>
 
 <text x="70" y="170" class="label">
@@ -127,7 +127,7 @@ stroke="#30363d"
 />
 
 <text x="250" y="145" class="number">
-354
+355
 </text>
 
 <text x="250" y="170" class="label">
@@ -220,7 +220,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#006d32"
+      fill="#161b22"
     />
     
     <rect
@@ -256,7 +256,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#26a641"
     />
     
     <rect
@@ -265,7 +265,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#26a641"
+      fill="#161b22"
     />
     
     <rect
@@ -463,7 +463,7 @@ Contribution Activity
       width="20"
       height="20"
       rx="4"
-      fill="#161b22"
+      fill="#0e4429"
     />
     
     <rect

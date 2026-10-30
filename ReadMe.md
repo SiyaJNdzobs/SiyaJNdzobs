@@ -3,7 +3,7 @@ Email: siyajndzobs@gmail.com
 
 
 
-ICT Final-Year Student | Becoming a Full-Stack AI Developer | Building end-to-end digital solutions, from concept to functional prototypes and MVPs, including apps, web apps and websites, with secure data practices and a solid Software Development Life Cycle | Foundation in Data Science | Self-Led Cybersecurity Learner | Cisco Networking Instructor
+ICT Final-Year Student | Certified IT Customer Support | Becoming a Full-Stack & AI Developer | Building end-to-end digital solutions, from concept to functional prototypes and MVPs, including apps, web apps and websites, with secure data practices and a solid Software Development Life Cycle | Foundation in Data Science | Self-Led Cybersecurity Learner | Cisco Networking Instructor
 
 <p align="left">
   <strong>LinkedIn:</strong>
